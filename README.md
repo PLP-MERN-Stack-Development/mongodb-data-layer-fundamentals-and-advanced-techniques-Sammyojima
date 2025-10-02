@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MongoDB Bookstore Assignment
 
 ## Setup Instructions
@@ -82,4 +82,4 @@ Complete all the exercises in this assignment and push your code to GitHub using
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
->>>>>>> 0fcd1a6b59e5934a6c57cfca568ccf5922ad1d48
+
